@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_crop_circle.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\ic_crop_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backward_w.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\ic_backward_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_forward_w.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable\\ic_forward_w.xml"
+    }
+]

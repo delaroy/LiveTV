@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_normal_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_play_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_crop_circle_normal.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_crop_circle_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_backward_normal_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_backward_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_crop_circle_pressed.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_crop_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekbar_thumb_normal.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_normal_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_pause_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekbar_thumb_pressed.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_pressed_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_pause_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_backward_pressed_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_backward_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_locked.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_forward_normal_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_forward_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_lock.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_forward_pressed_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_forward_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_pressed_w.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\drawable-hdpi\\ic_play_pressed_w.png"
+    }
+]

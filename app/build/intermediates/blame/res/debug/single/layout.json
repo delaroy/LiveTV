@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_player.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\layout\\view_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_demo.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\layout\\activity_main_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\PlayerLibrary\\app\\src\\main\\res\\layout\\activity_player.xml"
+    }
+]
